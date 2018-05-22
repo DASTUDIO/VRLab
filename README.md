@@ -2,4 +2,4 @@
  
  如图
  
- ![img]https://github.com/DASTUDIO/VRLab/blob/master/Images-folder/img.gif[img]
+ ![img](https://github.com/DASTUDIO/VRLab/blob/master/Images-folder/img.gif)
